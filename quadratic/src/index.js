@@ -70,7 +70,7 @@ app.get('/quadraticSolve', async (req, res) => {
 
 // API to fetch all records
 app.get('/readAll', async (req, res) => {
-    console.log('APi hit')
+    
     try {
 
         // Not working
